@@ -14,7 +14,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 1. **Install [Prism Launcher](https://prismlauncher.org/)** (recommended) or MultiMC
 2. Download the latest **`binSEC-v2-CLIENT.zip`** from the [Releases](https://github.com/D5-Interactive/binSEC-v2-CLIENT/releases) page
 3. In Prism Launcher: **Add Instance → Import from ZIP** → select the downloaded file
-4. Launch and join the server!
+4. Launch and join the server! (After logging into your minecraft account in the launcher)
 
 ---
 
@@ -24,7 +24,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 |---|---|
 | **Server IP** | `15.235.110.217:25589` |
 | **BlueMap (Live Map)** | <http://15.235.110.217:8074> |
-| **Modpack Version** | v2 (Minecraft 1.20.1) |
+| **Modpack Version** | v2 (Minecraft 26.1.2) |
 
 ---
 
