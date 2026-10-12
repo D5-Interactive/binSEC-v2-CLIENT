@@ -1,0 +1,13 @@
+# Ignore all zip files except the main modpack
+*.zip
+!binSEC-v2-CLIENT.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
