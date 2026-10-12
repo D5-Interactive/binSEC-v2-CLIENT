@@ -116,7 +116,7 @@ See [MODLIST.md](MODLIST.md) for the complete list of 115+ mods.
 
 ## Technical Details
 
-- **Minecraft**: 1.20.1 (Fabric 0.155)
+- **Minecraft**: 26.1.2 - Fabric
 - **Mod Count**: ~115
 - **RAM Recommended**: 4–6 GB
 - **Java**: 17+
