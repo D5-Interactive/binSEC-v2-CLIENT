@@ -4,7 +4,7 @@
 A community modpack for **cybersecurity and computer science students**; built for the Cyber Jedis and our community minecraft server.
 
 [![Prism Launcher](https://img.shields.io/badge/Prism%20Launcher-Download-blue?logo=prismlauncher&logoColor=white)](https://prismlauncher.org/)
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-green)](https://www.minecraft.net/)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.1.2-green)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-orange)](https://fabricmc.net/)
 
 ---
