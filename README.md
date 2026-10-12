@@ -30,7 +30,7 @@ A community modpack for **cybersecurity and computer science students**; built f
 
 ## Featured Mods & Features
 
-### **Programming & Automation** *(Core to CS/CyberSec theme)*
+### **Programming & Automation** *(Core)*
 | Mod | Purpose |
 |-----|---------|
 | **[CC: Tweaked](https://modrinth.com/mod/gu7yAYhd)** | Programmable computers & turtles — write Lua code to automate tasks, build networks, simulate systems |
@@ -85,33 +85,21 @@ A community modpack for **cybersecurity and computer science students**; built f
 | **[Chunky](https://modrinth.com/mod/fALzjamp)** | Pre-generate chunks |
 | **[Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq)** | Shift-click, scroll-wheel stacking, quick move |
 | **[Carry On](https://modrinth.com/mod/joEfVgkn)** | Pick up and carry chests, animals, blocks |
-| **[Zoomify](https://modrinth.com/mod/w7ThoJFB)** | OptiFine-style zoom (hold C) |
-| **[Freecam](https://modrinth.com/mod/XeEZ3fK2)** | Spectator-style freecam (toggle with P) |
+| **[Zoomify](https://modrinth.com/mod/w7ThoJFB)** | OptiFine-style zoom |
+| **[Freecam](https://modrinth.com/mod/XeEZ3fK2)** | Spectator-style freecam |
 | **[No Chat Reports](https://modrinth.com/mod/qQyHxfxd)** | Disables chat reporting |
 
 ### **Food & Farming**
 | Mod | Purpose |
 |-----|---------|
 | **[Farmer's Delight](https://modrinth.com/mod/7vxePowz)** | Cooking, cutting board, skillet, new crops/meals |
-| **[Comforts](https://modrinth.com/mod/SaCpeal4)** | Sleeping bags, hammocks — sleep anywhere |
+| **[Comforts](https://modrinth.com/mod/SaCpeal4)** | Sleeping bags, hammocks! Sleep anywhere |
 
 ---
 
 ## Full Mod List
 
 See [MODLIST.md](MODLIST.md) for the complete list of 115+ mods.
-
----
-
-## Why This Pack?
-
-**binSEC** is a cybersecurity & computer science student organization. This modpack was curated to:
-
-- **Teach programming concepts** via CC: Tweaked (Lua) and Create (logic/automation)
-- **Encourage collaboration** with voice chat, shared loot (Lootr), and team-friendly gameplay
-- **Provide a technical playground** — redstone/logic gates, computer networks, automation
-- **Run smoothly** on student laptops (Sodium, Lithium, FerriteCore, EntityCulling, BadOptimizations)
-- **Look great** with shaders, connected textures, and overhauled world gen
 
 ---
 
