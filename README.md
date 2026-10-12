@@ -1,4 +1,5 @@
-# binSEC v2 CLIENT
+<img width="528" height="216" alt="binSEC-v2-logo2" src="https://github.com/user-attachments/assets/0aaeeab8-161e-4aef-9b93-4c410ff19a39" />
+
 
 A community modpack for **cybersecurity and computer science students** — built for the Cyber Jedis and our community minecraft server.
 
