@@ -1,6 +1,6 @@
 # binSEC v2 CLIENT
 
-A community modpack for **cybersecurity and computer science students** — built for the binSEC student organization's Minecraft server.
+A community modpack for **cybersecurity and computer science students** — built for the Cyber Jedis and our community minecraft server.
 
 [![Prism Launcher](https://img.shields.io/badge/Prism%20Launcher-Download-blue?logo=prismlauncher&logoColor=white)](https://prismlauncher.org/)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-green)](https://www.minecraft.net/)
@@ -8,7 +8,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 
 ---
 
-## 🎮 Quick Start
+## Quick Start
 
 1. **Install [Prism Launcher](https://prismlauncher.org/)** (recommended) or MultiMC
 2. Download the latest **`binSEC-v2-CLIENT.zip`** from the [Releases](https://github.com/D5-Interactive/binSEC-v2-CLIENT/releases) page
@@ -17,7 +17,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 
 ---
 
-## 🌐 Server Info
+## Server Info
 
 | | |
 |---|---|
@@ -27,21 +27,21 @@ A community modpack for **cybersecurity and computer science students** — buil
 
 ---
 
-## 🛠️ Featured Mods & Features
+## Featured Mods & Features
 
-### 💻 **Programming & Automation** *(Core to CS/CyberSec theme)*
+### **Programming & Automation** *(Core to CS/CyberSec theme)*
 | Mod | Purpose |
 |-----|---------|
 | **[CC: Tweaked](https://modrinth.com/mod/gu7yAYhd)** | Programmable computers & turtles — write Lua code to automate tasks, build networks, simulate systems |
 | **[Create](https://modrinth.com/mod/create)** (via Create Fly) | Mechanical power, contraptions, automation — engineering in Minecraft |
 
-### 🗣️ **Communication & Social**
+### **Communication & Social**
 | Mod | Purpose |
 |-----|---------|
 | **[Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1)** | Proximity voice chat — talk to nearby players without Discord |
 | **[Simple Discord Rich Presence](https://modrinth.com/mod/SCAopByd)** | Shows your current world/server in Discord status |
 
-### 🌍 **World Generation & Exploration**
+### **World Generation & Exploration**
 | Mod | Purpose |
 |-----|---------|
 | **[Terralith](https://modrinth.com/mod/8oi3bsk5)** | Complete overworld overhaul — new biomes, terrain, structures |
@@ -50,14 +50,14 @@ A community modpack for **cybersecurity and computer science students** — buil
 | **[Towns and Towers](https://modrinth.com/mod/DjLobEOy)** | New villages, towers, and structures |
 | **[Distant Horizons](https://modrinth.com/mod/uCdwusMi)** | See thousands of blocks without chunk loading |
 
-### ⚔️ **Combat & Gameplay**
+### **Combat & Gameplay**
 | Mod | Purpose |
 |-----|---------|
 | **[TACZ (TaCZ Refabricated)](https://www.curseforge.com/projects/1627909)** | Tactical modern firearms, attachments, ballistics |
 | **[Better Combat](https://modrinth.com/mod/5sy6g3kz)** | Overhauled combat mechanics, animations, combos |
 | **[Don't Punch My TACZ](https://modrinth.com/mod/BdT7bXL2)** | Prevents accidental gun firing |
 
-### 🏗️ **Building & Decoration**
+### **Building & Decoration**
 | Mod | Purpose |
 |-----|---------|
 | **Macaw's Mods** (15+) | Doors, windows, roofs, fences, furniture, bridges, lamps, paths, stairs, trapdoors |
@@ -66,7 +66,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 | **[Immersive Paintings](https://modrinth.com/mod/6txNkua3)** | Custom paintings, frames, item displays |
 | **[Traveler's Backpack](https://modrinth.com/mod/rlloIFEV)** | Upgradeable backpacks with tanks, crafting, sleeping |
 
-### 🎨 **Visuals & Performance**
+### **Visuals & Performance**
 | Mod | Purpose |
 |-----|---------|
 | **[Iris](https://modrinth.com/mod/YL57xq9U)** + **[Sodium](https://modrinth.com/mod/AANobbMI)** | Shaders + massive FPS boost |
@@ -75,7 +75,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 | **[AmbientSounds](https://modrinth.com/mod/fM515JnW)** | Dynamic ambient audio |
 | **[Entity Texture Features](https://modrinth.com/mod/BVzZfTc1)** | Entity variants, overlays, custom models |
 
-### 🧰 **Quality of Life**
+### **Quality of Life**
 | Mod | Purpose |
 |-----|---------|
 | **[Jade](https://modrinth.com/mod/nvQzSEkH)** | HUD: block/entity info, health, harvest level |
@@ -88,7 +88,7 @@ A community modpack for **cybersecurity and computer science students** — buil
 | **[Freecam](https://modrinth.com/mod/XeEZ3fK2)** | Spectator-style freecam (toggle with P) |
 | **[No Chat Reports](https://modrinth.com/mod/qQyHxfxd)** | Disables chat reporting |
 
-### 🌾 **Food & Farming**
+### **Food & Farming**
 | Mod | Purpose |
 |-----|---------|
 | **[Farmer's Delight](https://modrinth.com/mod/7vxePowz)** | Cooking, cutting board, skillet, new crops/meals |
@@ -96,13 +96,13 @@ A community modpack for **cybersecurity and computer science students** — buil
 
 ---
 
-## 📦 Full Mod List
+## Full Mod List
 
 See [MODLIST.md](MODLIST.md) for the complete list of 115+ mods.
 
 ---
 
-## 🎓 Why This Pack?
+## Why This Pack?
 
 **binSEC** is a cybersecurity & computer science student organization. This modpack was curated to:
 
@@ -114,7 +114,7 @@ See [MODLIST.md](MODLIST.md) for the complete list of 115+ mods.
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 - **Minecraft**: 1.20.1 (Fabric 0.155)
 - **Mod Count**: ~115
@@ -123,10 +123,10 @@ See [MODLIST.md](MODLIST.md) for the complete list of 115+ mods.
 
 ---
 
-## 📄 License
+## License
 
 Individual mods retain their own licenses. This modpack configuration is provided for the binSEC community.
 
 ---
 
-**Made with ❤️ for the binSEC community** — *hack the planet, build the world*
+**Made with <3 for the Cyber Jedis community** — *hack the planet, build the world*
