@@ -18,16 +18,6 @@ A community modpack for **cybersecurity and computer science students**; built f
 
 ---
 
-## Server Info
-
-| | |
-|---|---|
-| **Server IP** | `15.235.110.217:25589` |
-| **BlueMap (Live Map)** | <http://15.235.110.217:8074> |
-| **Modpack Version** | v2 (Minecraft 26.1.2) |
-
----
-
 ## Featured Mods & Features
 
 ### **Programming & Automation** *(Core)*
